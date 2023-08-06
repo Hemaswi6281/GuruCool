@@ -23,7 +23,7 @@
 * MongoDB
 
   ## SCREENSHOTS
-  <p align="center">
+  <p>
 <img src="images\Screenshot (150).png" height="220">
 <img src="images\Screenshot (151).png" height="220">
   <img src="images\Screenshot (152).png" height="220">
